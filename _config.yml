@@ -14,5 +14,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   2012-2016
   <br>
   
+  <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

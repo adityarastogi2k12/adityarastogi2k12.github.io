@@ -12,6 +12,9 @@
 
 ### Part2: - Scatter Plot
 > Below are two scatterplot.
+<p align="center">
+  <img src="https://github.com/adityarastogi2k12/ds200/tree/master/images/Figure_1.png" width="350" title="hover text">
+</p>
 
 ![scatterplot](https://github.com/adityarastogi2k12/ds200/tree/master/images/Figure_1.png)
 

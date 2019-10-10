@@ -6,7 +6,7 @@
 
 ##### Description
 <p align="justify">
-The objective is to use data visualization tools available in the python library **matplotlib**. The data used is the state-wise Police Complaint Registration Statistics of 2009 of all Indian States and U.Ts. It is available at <a href="https://www.data.gov.in">https://www.data.gov.in</a> and was published by <https://www.ncrb.gov.in>  both part of Ministry of Home Affairs of Indian Government. The data gives the statistics of the method of complaint registration (oral/written/helpline/suomoto by police) and the category in which complaint is registered (IPC or SLL).I used **scatter plot**, **box plot** and **bar chart** to analyse the data and draw inference. The links to the **Result** and **Github repository** are given above.
+The objective is to use data visualization tools available in the python library <b>matplotlib</b>. The data used is the state-wise Police Complaint Registration Statistics of 2009 of all Indian States and U.Ts. It is available at <a href="https://www.data.gov.in">https://www.data.gov.in</a> and was published by <a href="https://www.ncrb.gov.in">https://www.ncrb.gov.in</a>  both part of Ministry of Home Affairs of Indian Government. The data gives the statistics of the method of complaint registration (oral/written/helpline/suomoto by police) and the category in which complaint is registered (IPC or SLL).I used <b>scatter plot</b>, <b>box plot</b> and <b>bar chart</b> to analyse the data and draw inference. The links to the <b>Result</b> and <b>Github repository</b> are given above.
 </p>
 
 

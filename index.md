@@ -1,12 +1,3 @@
-showdown.extension('targetlink', function() {
-  return [{
-    type: 'html',
-    filter: function (text) {
-        return (''+text).replace(/<a\s+href=/gi, '<a target="_blank" href=');
-    }
-  }];
-});
-
 
 
 ## About Me

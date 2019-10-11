@@ -1,7 +1,7 @@
 ## About Me
  * * *
  <p align="justify">
- I did my Bachelor's in Technology from <b>Delhi Technological University</b> in 2016. After that I worked as Senior Engineer in Bajaj Automobile Ltd. for close to two years. Currently I am pursuing Ph.D in field of Medical Images from <b>Department of Computational and Data Sciences</b> from <b>Indian Institute of Technology, Bangalore</b>. Link to my resume is <a href="https://github.com/adityarastogi2k12/adityarastogi2k12.github.io/blob/master/pdf/Academic_Resume.pdf">here</a> 
+ I did my Bachelor's in Technology from <b>Delhi Technological University</b> in 2016. After that I worked as Senior Engineer in Bajaj Automobile Ltd. for close to two years. Currently I am pursuing Ph.D in field of Medical Images from <b>Department of Computational and Data Sciences</b> from <b>Indian Institute of Technology, Bangalore</b>. Link to my resume is <a href= "pdf/Academic_Resume.pdf">here</a> 
 </p>
 
 

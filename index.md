@@ -1,6 +1,6 @@
 
 
-## About Me  [Link](https://www.google.com/  target="_blank")
+## About Me 
  * * *
  <p align="justify">
  I did my Bachelor's in Technology from <b>Delhi Technological University</b> in 2016. After that I worked as Senior Engineer in Bajaj Automobile Ltd. for close to two years. Currently I am pursuing Ph.D  under <b> Dr. Phaneendra K. Yalavarthy</b> in field of Medical Images from <b>Department of Computational and Data Sciences</b> from <b>Indian Institute of Technology, Bangalore</b>. Link to my resume is <a href= "pdf/Academic_Resume.pdf" target="blank">here</a>.  <br>
@@ -15,7 +15,7 @@ The website of Medical Imaging Group of Indian Institute of Sciences can be foun
 
 * * *
 ### DS200:Research Methods 
-#### Module 4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [[Github Page](https://github.com/adityarastogi2k12/ds200)] [[Results](DS200/module4/README.md)] 
+#### Module 4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [[Github Page](https://github.com/adityarastogi2k12/ds200)] [[Results](DS200/module4/README.md)]    [Link](https://www.google.com/  target="_blank")
 
 ##### Description
 <p align="justify">

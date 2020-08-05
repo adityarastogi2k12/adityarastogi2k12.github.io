@@ -4,7 +4,7 @@
  * * *
  <p align="justify">
  I did my Bachelor's in Technology from <b>Delhi Technological University</b> in 2016. After that I worked as Senior Engineer in Bajaj Automobile Ltd. for close to two years. Currently I am pursuing Ph.D  under <b> Dr. Phaneendra K. Yalavarthy</b> in field of Medical Images from <b>Department of Computational and Data Sciences</b> from <b>Indian Institute of Technology, Bangalore</b>. Link to my resume is <a href= "pdf/Academic_Resume.pdf" target="blank">here</a>.  <br>
-The website of Medical Imaging Group of Indian Institute of Sciences can be found <a href = "http://cds.iisc.ac.in/faculty/yalavarthy/MIG/Links.html" target = "blank">here </a>
+The website of Medical Imaging Group of Indian Institute of Sciences can be found <a href = "http://cds.iisc.ac.in/faculty/yalavarthy/MIG/Links.html" target = "blank">**HERE** </a>
 </p>
 
 

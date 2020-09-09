@@ -14,7 +14,7 @@ The website of Medical Imaging Group of Indian Institute of Sciences can be foun
 #### E9 253:Neural Networks & Learning System Course Project  [[Github Page](https://github.com/ocimakamboj/DnCNN){:target="_blank"}] [[Results](Projects/NNLS/README.md)]
 ##### This project is done along with Ms. Ocima Kamboj [[Website](https://ocimakamboj.github.io/){:target="_blank"}]
 <p align="justify">
-This project was part of course <b>E9 253: Neural Networks and Learning Systems<\b> the goal was to implement Deep Learning Denoiser using residual learning. We attempted to replicate the results of Zhang et.al. in their paper <a href = "https://ieeexplore.ieee.org/document/7839189" target="blank"> Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising</a> and experimented with L2, L1 and SSIM loss functions and their combinations. We trained the network for gaussian denoising, deblurring, JPEG deblocking and image super resolution
+This project was part of course <b>E9 253: Neural Networks and Learning Systems</b> the goal was to implement Deep Learning Denoiser using residual learning. We attempted to replicate the results of Zhang et.al. in their paper <a href = "https://ieeexplore.ieee.org/document/7839189" target="blank"> Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising</a> and experimented with L2, L1 and SSIM loss functions and their combinations. We trained the network for gaussian denoising, deblurring, JPEG deblocking and image super resolution
 </p>
 
 

@@ -58,5 +58,13 @@ The objective is to use data visualization tools available in the python library
     [This work is the first comprehensive comparison of compressive sensing reconstruction methods with model based deep learning methods for the breast perfusion imaging and shows that deep learning methods are sub-optimal at higher undersampling rates.]
     
 
+## Comics
+
+
+<p align="center">
+  <img src="images/comics/Image1.jpg" width="400px" alt=""> 
+</p>
+
+
 
 <!-- Remove above link if you don't want to attibute -->

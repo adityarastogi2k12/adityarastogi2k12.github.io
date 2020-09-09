@@ -63,6 +63,7 @@ The objective is to use data visualization tools available in the python library
 
 ### Comics
 
+Favourite comic strips
 
 <p align="center">
   <img src="images/comics/Image1.jpg" width="400px" alt=""> 

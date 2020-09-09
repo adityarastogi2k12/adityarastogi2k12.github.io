@@ -17,6 +17,7 @@ The website of Medical Imaging Group of Indian Institute of Sciences can be foun
 <p align="justify">
 
 </p>
+* * *
 
 ### DCE MRI
 #### Comparison of iterative parametric and indirect deep learning-based reconstruction methods in highly undersampled DCEMR Imaging of breast  [[Github Page](https://github.com/Medical-Imaging-Group/DCE-MRI-Compare){:target="_blank"}]
@@ -24,6 +25,7 @@ The website of Medical Imaging Group of Indian Institute of Sciences can be foun
 <p align="justify">
 The purpose of the project was to compare the performance of iterative direct and indirect parametric reconstruction methods with indirect deep learning based reconstruction methods in estimating tracer-kinetic parameters from highly undersampled DCE-MR Imaging breast data and provide a systematic comparison of the same. This work is published in <b> Medical Physics Journal </b>  <a href="#dce_mri">[1]</a>
 </p>
+* * *
 
 ### Image Denoising using CNN
 #### E9 253:Neural Networks & Learning System Course Project  [[Github Page](https://github.com/ocimakamboj/DnCNN){:target="_blank"}] [[Results](Projects/NNLS/README.md)]

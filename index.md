@@ -77,6 +77,9 @@ Favourite comic strips
   <img src="images/comics/calvin2.jpg" width="400px" alt=""> 
 </p>
 
+### Favourite quotes from TV Series
 
+**Jim Hacker**: I'd like a new chair. I hate swivel chairs.
+**Bernard Woolley**: It used to be said there were two kinds of chairs to go with two kinds of Minister: one sort folds up instantly; the other sort goes round and round in circles
 
 <!-- Remove above link if you don't want to attibute -->

@@ -44,9 +44,6 @@ The objective is to use data visualization tools available in the python library
 <b id="dce_mri">[1].</b> **Aditya Rastogi** and Phaneendra K. Yalavarthy, ``*Comparison of iterative parametric and indirect deep learning-based reconstruction methods in highly undersampled DCE‐MR Imaging of the breast*," Medical Physics 2020 (in press; 24 pages in journal format)
     [This work is the first comprehensive comparison of compressive sensing reconstruction methods with model based deep learning methods for the breast perfusion imaging and shows that deep learning methods are sub-optimal at higher undersampling rates.]
     
-<b id="spi_net">[2].</b> **Aditya Rastogi** and Phaneendra K. Yalavarthy, ``*SpiNet: A Deep Neural Network for Schatten p-norm Regularized Medical Image Reconstruction*," in review at Medical Physics, 2020, Submission ID - 20-1402; Submitted on: August 27, 2020. [This work is first-of-its kind in proposing a generic Schatten p-norm (<img src="https://render.githubusercontent.com/render/math?math=0 < p \leq 2">
-) regularization based deep learning network for medical image reconstruction, where <img src="https://render.githubusercontent.com/render/math?math=p">
- is a trainable parameter (chosen automatically).]
 
 
 <!-- Remove above link if you don't want to attibute -->

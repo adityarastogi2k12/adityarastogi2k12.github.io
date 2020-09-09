@@ -79,6 +79,7 @@ Favourite comic strips
 
 ### Favourite quotes from TV Series
 
+_Yes Minister, Season 1 , Episode 1_ 
 **Jim Hacker**: I'd like a new chair. I hate swivel chairs. <br>
 **Bernard Woolley**: It used to be said there were two kinds of chairs to go with two kinds of Minister: one sort folds up instantly; the other sort goes round and round in circles
 

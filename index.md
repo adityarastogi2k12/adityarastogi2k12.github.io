@@ -97,3 +97,10 @@ Bernard:    Well, take the Foreign Office. First you get the CMG, then the KCMG,
 Hacker:     [chuckles] What does GCMG stand for?
 Bernard:    "God Calls Me God."
 <!-- Remove above link if you don't want to attibute -->
+
+
+**Thin Blue Line, S2E2** <br>
+
+Inspector Fowler:  Appearances, as we shall see, are like bus timetables: often highly misleading.
+
+

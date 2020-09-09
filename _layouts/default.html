@@ -2,7 +2,7 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta name="google-site-verification" content="_AlI1cFOyF0n2ca6he8Lb9Ln1g2TxdE0zdS07QHyT5s" />
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -33,9 +33,11 @@
 
         {% if site.show_downloads %}
         <ul class="downloads">
-          <li><a href="{{ site.github.owner_url }}">View On <strong>GitHub</strong></a></li>
+          <li><a href="{{ site.github.owner_url }}"><strong>GitHub</strong></a> </li>
+          <li><a href="https://twitter.com/_aditya_rastogi" class="fa fa-twitter"><strong>Twitter</strong></a> </li>
         </ul>
         {% endif %}
+        <a href="https://github.com/ocimakamboj"> <i class="big github icon icon-color"></i> </a>
       </header>
       <section>
 
@@ -46,7 +48,6 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

@@ -10,9 +10,8 @@ The website of Medical Imaging Group of Indian Institute of Sciences can be foun
 ## Projects
 
 * * *
-<center> 
-### SpiNet
-</center>
+ 
+###         SpiNet
 #### Schatten p-norm Regularized Medical Image Reconstruction  [[Github Page](https://github.com/adityarastogi2k12/SpiNet){:target="_blank"}]
 ##### Description
 <p align="justify">

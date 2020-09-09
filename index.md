@@ -81,19 +81,19 @@ Favourite comic strips
 
 **Yes Minister, S1E1** <br>
 
-Jim Hacker: I'd like a new chair. I hate swivel chairs. <br>
-Bernard Woolley: It used to be said there were two kinds of chairs to go with two kinds of Minister: one sort folds up instantly; the other sort goes round and round in circles
+Jim Hacker:    I'd like a new chair. I hate swivel chairs. <br>
+Bernard Woolley:    It used to be said there were two kinds of chairs to go with two kinds of Minister: one sort folds up instantly; the other sort goes round and round in circles
 
 
 **Yes Minister, S2E2** <br>
 
 [Bernard explains to the Minister the honours available to senior Civil Servants.]<br>
-Hacker: Well, what has Sir Arnold to fear, anyway? He's got all the honours he could want, surely?<br>
-Bernard: Well, naturally he has his G.<br>
-Hacker: G?<br>
-Bernard: Yes; you get your G after your K.<br>
-Hacker: You speak in riddles, Bernard.<br>
-Bernard: Well, take the Foreign Office. First you get the CMG, then the KCMG, then the GCMG; the Commander of the Order of St Michael and St George, Knight Commander of St Michael and St George, Knight Grand Cross of St Michael and St George. Of course, in the Service, CMG stands for "Call Me God," and KCMG for "Kindly Call Me God."
-Hacker: [chuckles] What does GCMG stand for?
-Bernard: "God Calls Me God."
+Hacker:    Well, what has Sir Arnold to fear, anyway? He's got all the honours he could want, surely?<br>
+Bernard:    Well, naturally he has his G.<br>
+Hacker:    G?<br>
+Bernard:    Yes; you get your G after your K.<br>
+Hacker:    You speak in riddles, Bernard.<br>
+Bernard:    Well, take the Foreign Office. First you get the CMG, then the KCMG, then the GCMG; the Commander of the Order of St Michael and St George, Knight Commander of St Michael and St George, Knight Grand Cross of St Michael and St George. Of course, in the Service, CMG stands for "Call Me God," and KCMG for "Kindly Call Me God." <br>
+Hacker:     [chuckles] What does GCMG stand for?
+Bernard:    "God Calls Me God."
 <!-- Remove above link if you don't want to attibute -->

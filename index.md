@@ -69,7 +69,7 @@ The objective is to use data visualization tools available in the python library
 </p>
 
 <p align="center">
-  <img src="images/comics/calvin1.jpg" width="400px" alt=""> 
+  <img src="images/comics/calvin1.jpg" width="600px" alt=""> 
 </p>
 
 <p align="center">

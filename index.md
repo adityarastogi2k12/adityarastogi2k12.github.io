@@ -16,18 +16,19 @@ I am the recipient of the prestigious <a href = "https://may2020.pmrf.in/" targe
 #### Schatten p-norm Regularized Medical Image Reconstruction  [[Github Page](https://github.com/adityarastogi2k12/SpiNet){:target="_blank"}]
 ##### Description
 <p align="justify">
-The objective is to give a deep learning architecture for solving inverse problems which explicitely incorporates the forward model and uses noise statistics as prior. The noise prior is learnt using Deep Learning and the novelty of this architecture is that it can enforce any <img src="https://render.githubusercontent.com/render/math?math=p"> norm where <img src="https://render.githubusercontent.com/render/math?math=0 < p \leq 2"> and <img src="https://render.githubusercontent.com/render/math?math=p"> can be kept fixed or estimated from the data (a trainable parameter).
+The objective is to give a deep learning architecture for solving inverse problems which explicitely incorporates the forward model and uses noise statistics as prior. The noise prior is learnt using Deep Learning and the novelty of this architecture is that it can enforce any <img src="https://render.githubusercontent.com/render/math?math=p"> norm where <img src="https://render.githubusercontent.com/render/math?math=0 < p \leq 2"> and <img src="https://render.githubusercontent.com/render/math?math=p"> can be kept fixed or estimated from the data (a trainable parameter). This work is conditionally accepted in <b> Medical Physics Journal </b>  <a href="#spinet">[2]</a>
 
 </p>
 * * *
 
 ### DCE MRI
-#### Comparison of iterative parametric and indirect deep learning-based reconstruction methods in highly undersampled DCEMR Imaging of breast  [[Github Page](https://github.com/Medical-Imaging-Group/DCE-MRI-Compare){:target="_blank"}]
+#### Comparison of iterative parametric and indirect deep learning-based reconstruction methods in highly undersampled DCE MR Imaging of breast  [[Github Page](https://github.com/Medical-Imaging-Group/DCE-MRI-Compare){:target="_blank"}]
 ##### Description
 <p align="justify">
 The purpose of the project was to compare the performance of iterative direct and indirect parametric reconstruction methods with indirect deep learning based reconstruction methods in estimating tracer-kinetic parameters from highly undersampled DCE-MR Imaging breast data and provide a systematic comparison of the same. This work is published in <b> Medical Physics Journal </b>  <a href="#dce_mri">[1]</a>
 </p>
 * * *
+
 
 ### Image Denoising using CNN
 #### E9 253:Neural Networks & Learning System Course Project  [[Github Page](https://github.com/ocimakamboj/DnCNN){:target="_blank"}] [[Results](Projects/NNLS/README.md)]
@@ -57,7 +58,10 @@ The objective is to use data visualization tools available in the python library
 
 <b id="dce_mri">[1].</b> **Aditya Rastogi** and Phaneendra K. Yalavarthy, ``*Comparison of iterative parametric and indirect deep learning-based reconstruction methods in highly undersampled DCE‐MR Imaging of the breast*," Medical Physics 2020 (in press; 24 pages in journal format)
     [This work is the first comprehensive comparison of compressive sensing reconstruction methods with model based deep learning methods for the breast perfusion imaging and shows that deep learning methods are sub-optimal at higher undersampling rates.]
-    
+
+<b id="spinet">[2].</b> **Aditya Rastogi** and Phaneendra K. Yalavarthy, ``*SpiNet: A Deep Neural Network for Schatten p-normRegularized Medical Image Reconstruction," accepted with minor revisions in Medical Physics 2020
+    [This work is first-of-its kind in proposing ageneric Schatten p-norm (0< p≤2) regularization based deep learning network for medical imagereconstruction, wherepis a trainable parameter (chosen automatically).]
+
 
 ## Miscellaneous
 

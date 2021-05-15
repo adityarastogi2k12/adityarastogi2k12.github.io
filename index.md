@@ -10,6 +10,8 @@ The website of Medical Imaging Group of Indian Institute of Science can be found
 I am the recipient of the prestigious <a href = "https://may2020.pmrf.in/" target = "blank"> <b> Prime Minister's Research Fellowship</b> </a> in August 2020
 ## Projects
 
+[Link to another page](./sample_page.html).
+
 * * *
  
 ### SpiNet

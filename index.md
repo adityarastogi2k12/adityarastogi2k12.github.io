@@ -13,11 +13,22 @@ I am the recipient of the prestigious <a href = "https://may2020.pmrf.in/" targe
 
 * * *
  
+### VTDCE-Net
+####  A Time Invariant Deep Neural Network for Direct Estimation of Pharmacokinetic Parameters from Undersampled DCE MRI Data
+##### Description
+<p align="justify">
+The objective of this work it to propose a robust time and space invariant deep learning algorithm to directly estimate pharmacokinetic/tracer kinetic (PK/TK) parameter from undersampled dynamic contrast-enhanced (DCE) MR images. DCE MRI consists of 4D (3D-spatial + temporal) data and is used to estimated 3D (spatial) tracer kinetic maps. Existing deep learning architectures for this task are either not invariant to temporal dimension or to both temporal and spatial dimensions. We proposed a deep learning algorithm that is invariant to training and testing in both temporal and spatial dimensions, i.e we can train the network on dataset consisting 'x' time samples and test in on dataset consisting 'y' time samples. Our experiments found that VTDCE-Net performs better than the Total Variation scheme on both breast and brain datasets for estimating capillary permeability and blood vessel volume fraction for all undersampling rates.
+
+* This work is in the under submission and the codes and results will be made publically available after the peer review process is completed.*
+</p>
+* * *
+
+ 
 ### SpiNet
 #### Schatten p-norm Regularized Medical Image Reconstruction  [[Github Page](https://github.com/adityarastogi2k12/SpiNet){:target="_blank"}]
 ##### Description
 <p align="justify">
-The objective is to give a deep learning architecture for solving inverse problems which explicitely incorporates the forward model and uses noise statistics as prior. The noise prior is learnt using Deep Learning and the novelty of this architecture is that it can enforce any <img src="https://render.githubusercontent.com/render/math?math=p"> norm where <img src="https://render.githubusercontent.com/render/math?math=0 < p \leq 2"> and <img src="https://render.githubusercontent.com/render/math?math=p"> can be kept fixed or estimated from the data (a trainable parameter). This work is currently in press in<b> Medical Physics Journal </b>  <a href="#spinet">[2]</a>
+The objective is to give a deep learning architecture for solving inverse problems which explicitely incorporates the forward model and uses noise statistics as prior. The noise prior is learnt using Deep Learning and the novelty of this architecture is that it can enforce any <img src="https://render.githubusercontent.com/render/math?math=p"> norm where <img src="https://render.githubusercontent.com/render/math?math=0 < p \leq 2"> and <img src="https://render.githubusercontent.com/render/math?math=p"> can be kept fixed or estimated from the data (a trainable parameter). This work is published in<b> Medical Physics Journal </b>  <a href="#spinet">[2]</a>
 
 </p>
 * * *

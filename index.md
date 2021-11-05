@@ -20,7 +20,9 @@ I am the recipient of the prestigious <a href = "https://may2020.pmrf.in/" targe
 The objective of this work it to propose a robust time and space invariant deep learning algorithm to directly estimate pharmacokinetic/tracer kinetic (PK/TK) parameter from undersampled dynamic contrast-enhanced (DCE) MR images. DCE MRI consists of 4D (3D-spatial + temporal) data and is used to estimated 3D (spatial) tracer kinetic maps. Existing deep learning architectures for this task are either not invariant to temporal dimension or to both temporal and spatial dimensions. We proposed a deep learning algorithm that is invariant to training and testing in both temporal and spatial dimensions, i.e we can train the network on dataset consisting 'x' time samples and test in on dataset consisting 'y' time samples. Our experiments found that VTDCE-Net performs better than the Total Variation scheme on both breast and brain datasets for estimating capillary permeability and blood vessel volume fraction for all undersampling rates.
 </p> 
 
-<p>*This work is in the under submission and the codes and results will be made publically available after the peer review process is completed*.</p>
+<p> 
+ *This work is in the under submission and the codes and results will be made publically available after the peer review process is completed*.
+</p>
 
 * * *
 

@@ -13,6 +13,18 @@ I am the recipient of the prestigious <a href = "https://may2020.pmrf.in/" targe
 
 * * *
  
+### Greybox
+####  A hybrid algorithm for direct estimation of tracer kinetic parameters from undersampled DCE MRI data
+##### Description
+<p align="justify">
+In this work we propose a hybrid algorithm (named Greybox) for solving a multi-parametric non-linear inverse problem of directly estimating Tracer Kinetic (TK) parameters from undersampled Dynamic Contrast-Enhanced MRI data. The algorithm learns a deep learning based prior using UNET for estimating capillary permeability and blood vessel volume fraction parameters using the Patlak model. The method was compared with the Total Variation based direct reconstruction technique and UNET based denoising technique. The experiments were performed on the brain, breast and prostate datasets, and it showed that Greybox performs significantly better than other direct reconstruction methods.
+</p> 
+
+
+ *This work is in the under submission and the codes and results will be made publically available after the peer review process is completed*.
+
+* * *
+ 
 ### VTDCE-Net
 ####  A Time Invariant Deep Neural Network for Direct Estimation of Pharmacokinetic Parameters from Undersampled DCE MRI Data
 ##### Description

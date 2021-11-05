@@ -52,6 +52,7 @@ The objective is to use data visualization tools available in the python library
 
 ## Teaching Duties
 
+* * *
 I have assisted in teaching of the following courses:
 
 | Course      | Instructor | Institute   | Year   |

@@ -40,8 +40,6 @@ This project was part of course <b>E9 253: Neural Networks and Learning Systems<
 
 
 
-
-
 ## Assignments
 
 * * *
@@ -51,6 +49,16 @@ This project was part of course <b>E9 253: Neural Networks and Learning Systems<
 <p align="justify">
 The objective is to use data visualization tools available in the python library <b>matplotlib</b>. The data used is the state-wise Police Complaint Registration Statistics of 2009 of all Indian States and U.Ts. It is available at <a href="https://www.data.gov.in" target="blank">https://www.data.gov.in</a> and was published by <a href="http://www.ncrb.gov.in" target="blank">http://www.ncrb.gov.in</a>, both part of Ministry of Home Affairs of Indian Government. The data gives the statistics of the method of complaint registration (oral/written/helpline/suomoto by police) and the category in which complaint is registered (IPC or SLL).I used <b>scatter plot</b>, <b>box plot</b> and <b>bar chart</b> to analyse the data and draw inference. The links to the <b>Result</b> and <b>Github repository</b> are given above.
 </p>
+
+## Teaching Duties
+
+I have assisted in teaching of the following courses:
+
+| Course      | Instructor | Institute   | Year   |
+| ----------- | ----------- | ----------- | ----------- |
+| DS 288: Numerical Methods      | Prof Phaneendra K Yalavarthy | Indian Institute of Science | Aug 2019 - Dec 2019|
+|Biology for XI standard | Mrs Priyanka Sharma |Kendriya Vidyalaya, IISc | Jan 2021 - June 2021|
+| DS 288: Numerical Methods      | Prof Phaneendra K Yalavarthy | Indian Institute of Science | Aug 2021 - Dec 2021|
 
 
 ## Publications
@@ -62,6 +70,7 @@ The objective is to use data visualization tools available in the python library
 
 <b id="spinet">[2].</b> **Aditya Rastogi** and Phaneendra K. Yalavarthy, ``*SpiNet: A Deep Neural Network for Schatten p-normRegularized Medical Image Reconstruction," accepted with minor revisions in Medical Physics 2020
     [This work is first-of-its kind in proposing ageneric Schatten p-norm (0< p≤2) regularization based deep learning network for medical imagereconstruction, wherepis a trainable parameter (chosen automatically).]
+
 
 
 ## Miscellaneous

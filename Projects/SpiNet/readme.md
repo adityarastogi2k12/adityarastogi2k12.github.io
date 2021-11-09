@@ -45,7 +45,10 @@ Download Link for file "dataset.hdf5" : https://drive.google.com/file/d/1qp-l9kJ
 <p align='left'>In whole brain (i)</p> <p align='right'>In ROI (ii)</p>
 
 <p align="center">
+<figure>   
   <img src="images/Fig3_i.jpeg" width="45%">
+  <figcaption>MDN Logo</figcaption>
+</figure> 
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="images/Fig3_ii.jpeg" width="45%">
 </p>

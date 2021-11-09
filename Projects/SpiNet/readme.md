@@ -56,6 +56,7 @@ The above figure compares the of performance of MoDL and proposed SpiNet in the 
 Reconstruction over Iterations by MoDL (i)   
 :--------------------------------------------------:
 <img src="images/Fig6_i.jpeg" width="100%">
+
 Reconstruction over Iterations by SpiNet (ii)   
 :--------------------------------------------------:
 <img src="images/Fig6_ii.jpeg" width="100%">

@@ -49,7 +49,6 @@ In whole brain region      |   In ROI
 Reconstruction over Iterations by MoDL    
 :--------------------------------------------------:
 ![](https://github.com/adityarastogi2k12/adityarastogi2k12.github.io/blob/master/Projects/SpiNet/images/Fig6_i.jpeg)
-
 Reconstruction over Iterations by SpiNet    
 ![](https://github.com/adityarastogi2k12/adityarastogi2k12.github.io/blob/master/Projects/SpiNet/images/Fig6_ii.jpeg)
 

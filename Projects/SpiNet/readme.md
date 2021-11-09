@@ -56,7 +56,7 @@ Reconstruction over Iterations by SpiNet
 
 Average performance by all methods
 :-------------------------:
-![](https://github.com/adityarastogi2k12/adityarastogi2k12.github.io/blob/master/Projects/SpiNet/images/Fig7_i.jpeg) 
+![](https://github.com/adityarastogi2k12/adityarastogi2k12.github.io/blob/master/Projects/SpiNet/images/Fig7.jpeg) 
 
 ## References
 

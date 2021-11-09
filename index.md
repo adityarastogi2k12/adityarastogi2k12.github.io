@@ -49,7 +49,7 @@ The objective is to give a deep learning architecture for solving inverse proble
 * * *
 
 ### DCE MRI
-#### Comparison of iterative parametric and indirect deep learning-based reconstruction methods in highly undersampled DCE MR Imaging of breast  [[Github Page](https://github.com/Medical-Imaging-Group/DCE-MRI-Compare){:target="_blank"}]
+#### Comparison of iterative parametric and indirect deep learning-based reconstruction methods in highly undersampled DCE MR Imaging of breast  [[Github Page](https://github.com/Medical-Imaging-Group/DCE-MRI-Compare){:target="_blank"}][[Results](Projects/Direct/readme.md)]
 ##### Description
 <p align="justify">
 The purpose of the project was to compare the performance of iterative direct and indirect parametric reconstruction methods with indirect deep learning based reconstruction methods in estimating tracer-kinetic parameters from highly undersampled DCE-MR Imaging breast data and provide a systematic comparison of the same. This work is published in <b> Medical Physics Journal </b>  <a href="#dce_mri">[1]</a>

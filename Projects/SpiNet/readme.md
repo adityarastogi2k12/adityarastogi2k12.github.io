@@ -1,7 +1,8 @@
 # SpiNet
-This repository contains the official implementation for SpiNet: A Deep Neural Network for Schatten p-norm Regularized Medical Image Reconstruction
 
-This paper is published in **Medical Physics** journal. Please cite the paper if you intent on using the code.
+The fast-MRI reconstruction problem is known to be ill-posed and therefore iterative reconstruction techniques with prior regularization are the method of choice. However, these techniques are computationally inefficient and requires manual tuning of regularization parameter and proper selection of prior. Recently, data driven methods based on deep learning (DL) have been able to provide promising results with few questions to be addressed like data dependency, lack of interpretability and lack of uncertainty quantification. We proposed a generic physics and deep learning-based MR image reconstruction model (named SpiNet) that can enforce any Schatten p-norm regularization with 0 < p ≤ 2, where the p can be learnt (or fixed) based on the problem at hand. Both the prior and the regularization parameter are learnt from the data. This network is more interpretable, stable to data perturbations and requires less data to train. Our experiments indicated that the proposed SpiNet shows higher PSNR and SSIM and lower NRMSE than other state-of-the-art methods physics based methods. We validated the performance of SpiNet for various undersampling rates, undersampling masks and on different body organs. For higher undersampling rates greater than 6×, SpiNet significantly outperforms current state-of-the-art method in all metrices with improvement as high as 4 dB in PSNR and 0.05 points in SSIM.  
+
+### This paper is published in **Medical Physics** journal. 
 
 Rastogi A, Yalavarthy PK. SpiNet: A deep neural network for Schatten p-norm regularized medical image reconstruction. Med Phys. 2021 May;48(5):2214-2229. doi: 10.1002/mp.14744. Epub 2021 Mar 22. PMID: 33525049.
 
@@ -39,28 +40,7 @@ Hemant et al. <a href="#modl">[1]</a>. have released the parallel imaging datase
 
 Download Link for file "dataset.hdf5" : https://drive.google.com/file/d/1qp-l9kJbRfQU1W5wCjOQZi7I3T6jwA37/view?usp=sharing
 
-
-## Files
-> The repository consists of the following files :-
-1. **R16.mat** :- This file consists of the radial golden angle undersampling mask for 16 X undersampling rate.
-2. **MODL** :- This folder consists of the saved model, training, testing, model generation and support funtion files for MODL. The files present in the folder     are as follows :-
-    - trn_old_R16.py :- This is the main training file for MODL
-    - tst_old_R16.py :- This is the main testing file for MODL
-    - model_old.py :- Model generating file for MODL
-    - supportFunctions_old_R16.py :- Support function file for MODL used for reading and preprocessing training and testing data, generating PSNR values, loading       saved model etc.
-
-3. **SpiNet** :- This folder consists of the saved model, training, testing, model generation and support funtion files for SpiNet. The files present in the        folder are as follows :-
-
-      - trn_R16_8.py :- This is the main training file for SpiNet
-      - tst_R16_8.py :- This is the main testing file for SpiNet
-      - model_p_R6_8.py :- Model generating file for SpiNet
-      - supportFunctions_R16.py :- Support function file for SpiNet used for reading and preprocessing training and testing data, generating PSNR values, loading         saved model etc.
-
-**Note that dataset.hdf5 and R16.mat should be in MODL/SpiNet folder to while executing the training or testing code.**
-
-
-Contact
-The code is provided to support reproducible research. If the code is giving syntax error in your particular python configuration or some files are missing then you may open an issue or directly email me at adityar[at]iisc[dot]ac[dot]in
+## Results
 
 
 ## References

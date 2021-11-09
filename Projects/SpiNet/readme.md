@@ -46,6 +46,17 @@ In whole brain region      |   In ROI
 :-------------------------:|:-------------------------:
 ![](https://github.com/adityarastogi2k12/adityarastogi2k12.github.io/blob/master/Projects/SpiNet/images/Fig3_i.jpeg)  |  ![](https://github.com/adityarastogi2k12/adityarastogi2k12.github.io/blob/master/Projects/SpiNet/images/Fig3_ii.jpeg)
 
+Reconstruction over Iterations by MoDL    
+:--------------------------------------------------:
+![](https://github.com/adityarastogi2k12/adityarastogi2k12.github.io/blob/master/Projects/SpiNet/images/Fig6_i.jpeg)
+Reconstruction over Iterations by SpiNet    
+:--------------------------------------------------:
+![](https://github.com/adityarastogi2k12/adityarastogi2k12.github.io/blob/master/Projects/SpiNet/images/Fig6_ii.jpeg)
+
+
+Average performance by all methods
+:-------------------------:
+![](https://github.com/adityarastogi2k12/adityarastogi2k12.github.io/blob/master/Projects/SpiNet/images/Fig7_i.jpeg) 
 
 ## References
 

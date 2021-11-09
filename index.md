@@ -40,7 +40,7 @@ The objective of this work it to propose a robust time and space invariant deep 
 
  
 ### SpiNet
-#### Schatten p-norm Regularized Medical Image Reconstruction  [[Github Page](https://github.com/adityarastogi2k12/SpiNet){:target="_blank"}]
+#### Schatten p-norm Regularized Medical Image Reconstruction  [[Github Page](https://github.com/adityarastogi2k12/SpiNet){:target="_blank"}][[Results](Projects/SpiNet/readme.md)]
 ##### Description
 <p align="justify">
 The objective is to give a deep learning architecture for solving inverse problems which explicitely incorporates the forward model and uses noise statistics as prior. The noise prior is learnt using Deep Learning and the novelty of this architecture is that it can enforce any <img src="https://render.githubusercontent.com/render/math?math=p"> norm where <img src="https://render.githubusercontent.com/render/math?math=0 < p \leq 2"> and <img src="https://render.githubusercontent.com/render/math?math=p"> can be kept fixed or estimated from the data (a trainable parameter). This work is published in<b> Medical Physics Journal </b>  <a href="#spinet">[2]</a>

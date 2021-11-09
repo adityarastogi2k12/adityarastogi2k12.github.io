@@ -42,11 +42,8 @@ Download Link for file "dataset.hdf5" : https://drive.google.com/file/d/1qp-l9kJ
 
 ## Results
 
-In whole brain region (i)  
-![alt-text-1](images/Fig3_i.jpeg "title-1")
-In ROI (ii)
-![alt-text-2](images/Fig3_ii.jpeg "title-2")
-
+In whole brain (i) | In ROI (ii)  
+:-------------------:|:-------------------------------:
 
 <p align="center">
   <img src="images/Fig3_i.jpeg" width="45%">

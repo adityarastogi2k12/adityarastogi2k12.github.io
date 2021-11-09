@@ -53,20 +53,17 @@ In whole brain (i) | In ROI (ii)
 
 The above figure compares the of performance of MoDL and proposed SpiNet in the (i) whole brain region and (ii) in region of interest (zoomed version of green bounding box in (i)). In both subfigures (i) and (ii), the top row represents the original/target image from fully sampled k space. The undersampling rates R were mentioned on the left edge of (i). The first column from second row onwards represents the aliased image estimated from zero filled k space and is input to both MoDL and proposed SpiNet. The second column of (i) & (ii) represents output of MoDL after 10th iteration and the third column of (i) & (ii) represents output of 10th iteration of proposed SpiNet. The PSNR values are shown in parenthesis. It can be seen that for lower R the performance of MoDL and proposed SpiNet are similar but as R increases the gap between performance of proposed SpiNet and MoDL increases. 
 
-Reconstruction over Iterations by MoDL (i)   
-:--------------------------------------------------:
+<p align="center"> Reconstruction over Iterations by MoDL (i) </p>   
 <img src="images/Fig6_i.jpeg" width="100%">
 
-Reconstruction over Iterations by SpiNet (ii)   
-:--------------------------------------------------:
+<p align="center"> Reconstruction over Iterations by SpiNet (ii) </p>
 <img src="images/Fig6_ii.jpeg" width="100%">
 
 
 The above images show the performance of (i) MoDL and (ii) proposed SpiNet across different iterations of corresponding networks in recovering the image from 16X undersampled k space data. In both figures (a) represents the input to the network, (b) represents the noise estimate <img src="https://render.githubusercontent.com/render/math?math=\mathcal{N}_w(x^0)"> in the first iteration, (c) represents the denoised image z^1 after first iteration, which is the output of denoiser block DW and (d) represents the output of data consistency block  (DC) in first iteration. Images (e)-(h) amd (i)-(l) represents the same for 4th and 10th iteration respectively and in the same order. The bottom rows of both subfigures represents zoomed version of corresponding images above them bounded by the green box. In both (i) and (ii) the magenta box shows the input, noise estimate, denoised output and $DC$ block output for $1^{st}$ iteration and the blue and red boxes show the same variables for 4th and 10th iteration respectively and in the same order. The magnitude of noise images have been multiplied by 10 for clarity. From image (t) in (i) and (ii), it can be seen that SpiNet is able to achieve better quality of reconstruction than MoDL after 4th iteration. From (x) in (i) and (ii) it can also be seen that SpiNet has sharper edges at the `x' shaped structure (marked by red coloured arrow). Readers are advised to see the image in digital copy in full brightness of the screen.
 
 
-Average performance by all methods
-:-------------------------:
+<p align="center"> Average performance by all methods </p>
 <p align="center"><img src="images/Fig7.jpeg" width="45%"></p>
 
 The above image compares the performance of MoDL (red), L1-Net (green) and proposed SpiNet (blue) with respect to averaged PSNR (in dB) on the test dataset of 164 images as a function of undersampling ($\mathbf{R}$) rates.

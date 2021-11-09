@@ -42,8 +42,7 @@ Download Link for file "dataset.hdf5" : https://drive.google.com/file/d/1qp-l9kJ
 
 ## Results
 
-In whole brain (i) | In ROI (ii)  
-:-------------------:|:-------------------------------:
+<p align='left'>In whole brain (i)</p> <p align='right'>In ROI (ii)</p>
 
 <p align="center">
   <img src="images/Fig3_i.jpeg" width="45%">
@@ -66,7 +65,7 @@ The above images show the performance of (i) MoDL and (ii) proposed SpiNet acros
 <p align="center"> Average performance by all methods </p>
 <p align="center"><img src="images/Fig7.jpeg" width="45%"></p>
 
-The above image compares the performance of MoDL (red), L1-Net (green) and proposed SpiNet (blue) with respect to averaged PSNR (in dB) on the test dataset of 164 images as a function of undersampling ($\mathbf{R}$) rates.
+The above image compares the performance of MoDL (red), L1-Net (green) and proposed SpiNet (blue) with respect to averaged PSNR (in dB) on the test dataset of 164 images as a function of undersampling (R) rates.
 ## References
 
 <b id="my_anchor">[1].</b> MoDL: Model Based Deep Learning Architecture for Inverse Problems  by H.K. Aggarwal, M.P Mani, and Mathews Jacob in IEEE Transactions on Medical Imaging,  2018 

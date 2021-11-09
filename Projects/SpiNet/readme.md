@@ -55,10 +55,10 @@ The above figure compares the of performance of MoDL and proposed SpiNet in the 
 
 Reconstruction over Iterations by MoDL    
 :--------------------------------------------------:
-![]<img src="images/Fig6_i.jpeg" width="45%">
+<img src="images/Fig6_i.jpeg" width="100%">
 (i)
 Reconstruction over Iterations by SpiNet    
-![]<img src="images/Fig6_ii.jpeg" width="45%">
+<img src="images/Fig6_ii.jpeg" width="100%">
 (ii)
 
 The above images show the performance of (i) MoDL and (ii) proposed SpiNet across different iterations of corresponding networks in recovering the image from 16X undersampled k space data. In both figures (a) represents the input to the network, (b) represents the noise estimate <img src="https://render.githubusercontent.com/render/math?math=\mathcal{N}_w(x^0)"> in the first iteration, (c) represents the denoised image z^1 after first iteration, which is the output of denoiser block DW and (d) represents the output of data consistency block  (DC) in first iteration. Images (e)-(h) amd (i)-(l) represents the same for 4th and 10th iteration respectively and in the same order. The bottom rows of both subfigures represents zoomed version of corresponding images above them bounded by the green box. In both (i) and (ii) the magenta box shows the input, noise estimate, denoised output and $DC$ block output for $1^{st}$ iteration and the blue and red boxes show the same variables for 4th and 10th iteration respectively and in the same order. The magnitude of noise images have been multiplied by 10 for clarity. From image (t) in (i) and (ii), it can be seen that SpiNet is able to achieve better quality of reconstruction than MoDL after 4th iteration. From (x) in (i) and (ii) it can also be seen that SpiNet has sharper edges at the `x' shaped structure (marked by red coloured arrow). Readers are advised to see the image in digital copy in full brightness of the screen.
@@ -66,7 +66,7 @@ The above images show the performance of (i) MoDL and (ii) proposed SpiNet acros
 
 Average performance by all methods
 :-------------------------:
-![]<p align="center"><img src="images/Fig7.jpeg" width="45%"></p>
+<p align="center"><img src="images/Fig7.jpeg" width="45%"></p>
 
 The above image compares the performance of MoDL (red), L1-Net (green) and proposed SpiNet (blue) with respect to averaged PSNR (in dB) on the test dataset of 164 images as a function of undersampling ($\mathbf{R}$) rates.
 ## References

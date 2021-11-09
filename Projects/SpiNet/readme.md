@@ -43,12 +43,7 @@ Download Link for file "dataset.hdf5" : https://drive.google.com/file/d/1qp-l9kJ
 ## Results
 
 In whole brain region      |   In ROI
-:-------------------------:|:-------------------------:
-<p align="center">
-  <img src="images/Fig2.jpg" width="1000px" alt=""> 
-</p>  |  <p align="center">
-  <img src="images/Fig2.jpg" width="1000px" alt=""> 
-</p>
+![alt-text-1](images/Fig2.jpg "title-1") ![alt-text-2](images/Fig2.jpg "title-2")
 
 The above figure compares the of performance of MoDL and proposed SpiNet in the (left) whole brain region and (right) in region of interest (zoomed version of green bounding box in (left)). In both subfigures (left) and (right), the top row represents the original/target image from fully sampled k space. The undersampling rates R were mentioned on the left edge of (left). The first column from second row onwards represents the aliased image estimated from zero filled k space and is input to both MoDL and proposed SpiNet. The second column of (left) & (right) represents output of MoDL after 10th iteration and the third column of (left) & (right) represents output of 10th iteration of proposed SpiNet. The PSNR values are shown in parenthesis. It can be seen that for lower R the performance of MoDL and proposed SpiNet are similar but as R increases the gap between performance of proposed SpiNet and MoDL increases. 
 

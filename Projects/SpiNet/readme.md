@@ -42,7 +42,7 @@ Download Link for file "dataset.hdf5" : https://drive.google.com/file/d/1qp-l9kJ
 
 ## Results
 
-In whole brain region         In ROI
+In whole brain region      |   In ROI
 :-------------------------:|:-------------------------:
 ![](https://github.com/adityarastogi2k12/adityarastogi2k12.github.io/blob/master/Projects/SpiNet/images/Fig3_i.jpeg)  |  ![](https://github.com/adityarastogi2k12/adityarastogi2k12.github.io/blob/master/Projects/SpiNet/images/Fig3_ii.jpeg)
 

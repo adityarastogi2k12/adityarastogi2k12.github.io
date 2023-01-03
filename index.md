@@ -3,8 +3,9 @@
 ## About Me 
  * * *
  <p align="justify">
- I did my Bachelor's in Technology from <b>Delhi Technological University</b> in 2016. After that I worked as Senior Engineer in Bajaj Automobile Ltd. for close to two years. Currently I am pursuing Ph.D  under <b> Dr. Phaneendra K. Yalavarthy</b> in field of Medical Imaging at <b>Department of Computational and Data Sciences</b> in <b>Indian Institute of Science, Bangalore</b>. Link to my <b>RESUME</b> is <a href= "pdf/Resume_March_2022.pdf" target="blank"><b>HERE</b></a>.  <br>
+ I finished my Ph.D  under <b> Dr. Phaneendra K. Yalavarthy</b> in field of Medical Imaging at <b>Department of Computational and Data Sciences</b> in <b>Indian Institute of Science, Bangalore</b>. Link to my <b>RESUME</b> is <a href= "pdf/Aditya_Rastogi_Jan2023.pdf.pdf" target="blank"><b>HERE</b></a>.  <br>
 The website of Medical Imaging Group of Indian Institute of Science can be found <a href = "http://cds.iisc.ac.in/faculty/yalavarthy/MIG/Links.html" target = "blank"> <b>HERE</b> </a>
+ I did my Bachelor's in Technology from <b>Delhi Technological University</b> in 2016. After that I worked as Senior Engineer in Bajaj Automobile Ltd. for close to two years. Currently I am working as PostDoc in Universitätsklinikum heidelberg, Germany.
 </p>
 
 I am the recipient of the prestigious <a href = "https://may2020.pmrf.in/" target = "blank"> <b> Prime Minister's Research Fellowship</b> </a> in August 2020
@@ -29,11 +30,8 @@ In this work we propose a hybrid algorithm (named Greybox) for solving a multi-p
 ####  A Time Invariant Deep Neural Network for Direct Estimation of Pharmacokinetic Parameters from Undersampled DCE MRI Data
 ##### Description
 <p align="justify">
-The objective of this work it to propose a robust time and space invariant deep learning algorithm to directly estimate pharmacokinetic/tracer kinetic (PK/TK) parameter from undersampled dynamic contrast-enhanced (DCE) MR images. DCE MRI consists of 4D (3D-spatial + temporal) data and is used to estimated 3D (spatial) tracer kinetic maps. Existing deep learning architectures for this task are either not invariant to temporal dimension or to both temporal and spatial dimensions. We proposed a deep learning algorithm that is invariant to training and testing in both temporal and spatial dimensions, i.e we can train the network on dataset consisting 'x' time samples and test in on dataset consisting 'y' time samples. Our experiments found that VTDCE-Net performs better than the Total Variation scheme on both breast and brain datasets for estimating capillary permeability and blood vessel volume fraction for all undersampling rates.
+The objective of this work it to propose a robust time and space invariant deep learning algorithm to directly estimate pharmacokinetic/tracer kinetic (PK/TK) parameter from undersampled dynamic contrast-enhanced (DCE) MR images. DCE MRI consists of 4D (3D-spatial + temporal) data and is used to estimated 3D (spatial) tracer kinetic maps. Existing deep learning architectures for this task are either not invariant to temporal dimension or to both temporal and spatial dimensions. We proposed a deep learning algorithm that is invariant to training and testing in both temporal and spatial dimensions, i.e we can train the network on dataset consisting 'x' time samples and test in on dataset consisting 'y' time samples. Our experiments found that VTDCE-Net performs better than the Total Variation scheme on both breast and brain datasets for estimating capillary permeability and blood vessel volume fraction for all undersampling rates. This work is published in<b> Medical Physics Journal </b>  <a href="#vtdce">[3]</a>
 </p> 
-
-
- *This work is in the under submission and the codes and results will be made publically available after the peer review process is completed*.
 
 
 * * *
@@ -92,12 +90,13 @@ I have assisted in teaching of the following courses:
 
 * * *
 
-<b id="dce_mri">[1].</b> **Aditya Rastogi** and Phaneendra K. Yalavarthy, ``*Comparison of iterative parametric and indirect deep learning-based reconstruction methods in highly undersampled DCE‐MR Imaging of the breast*," Medical Physics 2020 (in press; 24 pages in journal format)
+<b id="dce_mri">[1].</b> **Aditya Rastogi** and Phaneendra K. Yalavarthy, ``*Comparison of iterative parametric and indirect deep learning-based reconstruction methods in highly undersampled DCE‐MR Imaging of the breast*," Medical Physics (2020)
     [This work is the first comprehensive comparison of compressive sensing reconstruction methods with model based deep learning methods for the breast perfusion imaging and shows that deep learning methods are sub-optimal at higher undersampling rates.]
 
-<b id="spinet">[2].</b> **Aditya Rastogi** and Phaneendra K. Yalavarthy, ``*SpiNet: A Deep Neural Network for Schatten p-normRegularized Medical Image Reconstruction," accepted with minor revisions in Medical Physics 2020
+<b id="spinet">[2].</b> **Aditya Rastogi** and Phaneendra K. Yalavarthy, ``*SpiNet: A Deep Neural Network for Schatten p-normRegularized Medical Image Reconstruction*," Medical Physics (2020),
     [This work is first-of-its kind in proposing ageneric Schatten p-norm (0< p≤2) regularization based deep learning network for medical imagereconstruction, wherepis a trainable parameter (chosen automatically).]
 
+<b id="vtdce">[3].</b> **Aditya Rastogi** Arindam Dutta, and Phaneendra Kumar Yalavarthy, ``*VTDCE‐Net: A time invariant deep neural network for direct estimation of pharmacokinetic parameters from undersampled DCE MRI data.*" Medical Physics (2022).
 
 
 ## Miscellaneous

@@ -3,7 +3,7 @@
 ## About Me 
  * * *
  <p align="justify">
- I completed my Ph.D  under <b> Dr. Phaneendra K. Yalavarthy</b> in field of Medical Imaging at <b>Department of Computational and Data Sciences</b> in <b>Indian Institute of Science, Bangalore</b>. Link to my <b>RESUME</b> is <a href= "pdf/Aditya_Rastogi_Jan2023.pdf" target="blank"><b>HERE</b></a>.  <br>
+ I completed my Ph.D  under <b> Dr. Phaneendra K. Yalavarthy</b> in field of Medical Imaging at <b>Department of Computational and Data Sciences</b> in <b>Indian Institute of Science, Bangalore</b>. Link to my <b>RESUME</b> is <a href= "pdf/Aditya_Rastogi_March_2023.pdf" target="blank"><b>HERE</b></a>.  <br>
 The website of Medical Imaging Group of Indian Institute of Science can be found <a href = "http://cds.iisc.ac.in/faculty/yalavarthy/MIG/Links.html" target = "blank"> <b>HERE</b> </a>
  I did my Bachelor's in Technology from <b>Delhi Technological University</b> in 2016. After that I worked as Senior Engineer in Bajaj Automobile Ltd. for close to two years. Currently I am working as PostDoc in Universitätsklinikum heidelberg, Germany.
 </p>
